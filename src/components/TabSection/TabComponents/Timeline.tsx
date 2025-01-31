@@ -14,7 +14,7 @@ const Timeline = () => {
         {
             title: 'Cloud Computing, Bangkit Academy',
             date: '2024 – Januari 2025',
-            description: 'Leveraging Google Cloud Platform (GCP), I contributed to designing GCP services infrastructure, developed a Backend API using Express, Firestore, and Node.js, and integrated machine learning models into the API with Flask to enhance application functionality. Graduated with distinction.',
+            description: 'Graduated with distinction(Top 10%). Leveraging Google Cloud Platform (GCP), I contributed to designing GCP services infrastructure, developed a Backend API using Express, Firestore, and Node.js, and integrated machine learning models into the API with Flask to enhance application functionality.',
             type: 'Non-Formal'
         }
     ];

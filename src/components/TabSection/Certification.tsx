@@ -9,6 +9,7 @@ import cloudEngineer from '../../assets/certificate/cloud_engineer.jpg';
 import cloudArchitect from '../../assets/certificate/cloud_architect.jpg';
 import fundamentalFlutter from '../../assets/certificate/fundamental_flutter.jpg';
 import appliedMl from '../../assets/certificate/applied_ml.jpg';
+import google_cysec from '../../assets/certificate/google_cysec.jpg';
 
 const Certification = () => {
     const { isDarkMode } = useTheme();
@@ -29,15 +30,21 @@ const Certification = () => {
         },
         {
             title: "Google Cloud Engineer",
-            organization: "Google Cloud",
+            organization: "Dicoding Indonesia",
             date: "2024",
             image: cloudEngineer
         },
         {
             title: "Google Cloud Architect",
-            organization: "Google Cloud",
+            organization: "Dicoding Indonesia",
             date: "2025",
             image: cloudArchitect
+        },
+        {
+            title: "Google Cybersecurity",
+            organization: "Coursera",
+            date: "2025",
+            image: google_cysec
         },
         {
             title: "Flutter Fundamental",
@@ -47,7 +54,7 @@ const Certification = () => {
         },
         {
             title: "Applied Machine Learning with GCP",
-            organization: "Google Cloud",
+            organization: "Dicoding Indonesia",
             date: "2024",
             image: appliedMl
         }
